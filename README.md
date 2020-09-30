@@ -1,4 +1,7 @@
-# pythonlab
-name:gaurav yadav
-roll no:55
-university roll no :191500297
+## PythonLab
+> This Repository contains various programs and concepts related to the Python Language in second semester.
+-------
+## Details:-
+##Name:- *Gaurav Yadav*
+##Roll No:- *55*
+##University Roll:- *191500297*
